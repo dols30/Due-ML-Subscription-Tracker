@@ -9,6 +9,7 @@ A SwiftUI subscription and free-trial tracker with on-device natural-language en
 Requires Xcode 16.2 or later and iOS 17 or later. Install [Git LFS](https://git-lfs.com/) before cloning to download the model weights.
 
 ```sh
+git lfs install
 git clone https://github.com/dols30/Due-ML-Subscription-Tracker.git
 cd Due-ML-Subscription-Tracker
 git lfs pull
